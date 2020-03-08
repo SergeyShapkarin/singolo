@@ -176,7 +176,14 @@
   width: auto;;
   display: flex;
   align-items: center;
-  margin-left: 30px;
+  margin-left: 35px;
+  margin-bottom: 3px;
+  font-size: 12px;
+  line-height: 22px;
+  color: #f0d8d9;
+  font-family: "Lato";
+  font-weight: 400;
+  text-align: left;
 }
 
 .footer__social {
@@ -188,18 +195,22 @@
 }
 
 .footer__social__linkedin {
-  margin-right: 10px;
+  margin-right: 9px;
+  margin-top: 4px;
 }
 
 .footer__social__twitter {
-  margin-right: 10px;
+  margin-right: 6px;
+  margin-top: 4px;
 }
 
 .footer__social__google {
-  margin-right: 10px;
+  margin-right: 6px;
+  margin-top: 4px;
 }
 
 .footer__social__facebook {
-  margin-right: 10px;
+  margin-right: 6px;
+  margin-top: 4px;
 }
 /*-------------GARBAGE-------------*/
