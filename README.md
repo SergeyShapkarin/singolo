@@ -1,1 +1,1 @@
-# singolo
+[SINGOLO](https://github.com/SergeyShapkarin/singolo/index.html)
